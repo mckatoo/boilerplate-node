@@ -12,5 +12,11 @@ Works great using Babel, TypeScript, Node, React, Angular, Vue, and more!
 Babel is a tool that helps you write code in the latest version of JavaScript. When your supported environments don't support certain features natively, Babel will help you compile those features down to a supported version.
 
 ## How to use
+
+### Via GitHub Cli
+`gh repo create your-new-repository --template mckatoo/boilerplate-node-typescript`
+
+or
+
 Click this button ===> [![Use this template](https://user-images.githubusercontent.com/7876852/137644505-fea0df3f-5c72-400d-b0a5-d09046a6ce98.png)](https://github.com/mckatoo/boilerplate-node-typescript/generate) , which matches the button on the page top. See the image...
 ![image](https://user-images.githubusercontent.com/7876852/137643820-afcbdcd7-c48e-4dda-bb73-8e3457932e79.png)
