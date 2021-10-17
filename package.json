@@ -1,0 +1,11 @@
+{
+  "name": "boilerplate-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mckatoo/boilerplate-node.git",
+  "author": "Milton Carlos Katoo <mckatoo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
