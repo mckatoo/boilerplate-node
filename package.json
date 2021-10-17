@@ -5,6 +5,9 @@
   "repository": "git@github.com:mckatoo/boilerplate-node.git",
   "author": "Milton Carlos Katoo <mckatoo@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "tsnd --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts"
+  },
   "devDependencies": {
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.4.4"
