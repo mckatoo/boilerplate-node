@@ -15,7 +15,7 @@
     "test:watch": "jest --watch --maxWorkers=25%"
   },
   "devDependencies": {
-    "@types/jest": "^27.4.0",
+    "@types/jest": "^27.4.1",
     "@typescript-eslint/eslint-plugin": "^5.12.1",
     "eslint": "^7.12.1",
     "eslint-config-standard": "^16.0.3",
